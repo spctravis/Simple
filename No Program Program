@@ -1,0 +1,9 @@
+define 3 buttons as inputs. Each button will be labeled A B C and Clear.
+
+Upon the push of the button, it will be stored in an Array.
+
+The array will be matched up against a code.
+    If the code is good green light
+    Bad, red light
+    If clear button, array will be cleared and yellow light will be turned on.
+
